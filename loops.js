@@ -4,6 +4,17 @@ function setup(){
   background(0);
 }
 
+
+var firstHighScore = 12000
+var secondHighScore = 11000
+var thirdHighScore = 1000
+var fourthHighScore = 900
+
+var highScores = [1200, 1100, 1000, 900]
+
+
+
+
 function draw(){
 // 5 circles written long hand.
   // ellipse(50, 300, 50, 50)

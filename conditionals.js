@@ -7,7 +7,6 @@ function setup(){
 function draw(){
   background(0);
 
-  // This
   fill(255)
   textSize(32);
   text("The value of x is: " + x, 10, 30);
